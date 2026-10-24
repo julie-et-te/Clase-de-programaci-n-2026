@@ -11,7 +11,7 @@ print(resultado)
 
 
 2. De que tipo son las variables justifica la respuesta (1.5 puntos)
- a = "1"  int
+ a = "1"  str
  b = 1.0 float
  c = 1.5 + True float
  d = 1.5 + 2.5 float
@@ -28,6 +28,8 @@ print(resultado)
 	en "Ho14"
 "Hola".replace("a","4")
 Salida: 'Hol4'
+"Hol4".replace("l","1")
+salida: Ho14
 
  b. remover espacios
 	palabra = "  hola"
